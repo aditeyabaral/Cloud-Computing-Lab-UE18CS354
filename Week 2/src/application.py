@@ -4,7 +4,7 @@ from flask_mysqldb import MySQL
 application = app = Flask(__name__)
 mysql = MySQL(app)
 
-app.config['MYSQL_HOST'] = 'aa170lj76b4vrxv.c56j6kn4ugy5.us-east-1.rds.amazonaws.com'
+app.config['MYSQL_HOST'] = 'aa1b8j2quw9htua.c56j6kn4ugy5.us-east-1.rds.amazonaws.com'
 app.config['MYSQL_USER'] = 'PES1201800366'
 app.config['MYSQL_PASSWORD'] = 'PES1201800366'
 app.config['MYSQL_DB'] = 'ADITEYABARAL'

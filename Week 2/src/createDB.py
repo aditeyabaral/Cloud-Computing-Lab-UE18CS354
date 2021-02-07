@@ -1,6 +1,6 @@
 import pymysql
 
-host = 'aa170lj76b4vrxv.c56j6kn4ugy5.us-east-1.rds.amazonaws.com'
+host = 'aa1b8j2quw9htua.c56j6kn4ugy5.us-east-1.rds.amazonaws.co'
 user = 'PES1201800366'
 password = 'PES1201800366'
 
